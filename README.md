@@ -23,11 +23,7 @@ It includes functionalities for creating, browsing, and removing albums, as well
 
 ## Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/nuricanbrdmr/Spotify-Clone-MERN-Website.git
-    cd Spotify-Clone-MERN-Website
-    ```
+1. Clone the repository
 
 2. Set up environment variables:
     Create a `.env` file in the root directory and add the following:
